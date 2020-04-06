@@ -1,0 +1,37 @@
+11:06:46.426 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.MirrorTest
+11:06:46.560 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/CrownProjects/eclipse-learning-workspace/karatedemo/target/test-classes/examples%5cmirror.feature
+11:06:46.591 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/CrownProjects/eclipse-learning-workspace/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+11:06:47.161 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:06:47.617 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 296
+11:06:47.658 [main] WARN  com.intuit.karate.StepDefs - xml parsing failed, response data type set to string: org.xml.sax.SAXParseException; lineNumber: 18; columnNumber: 5; The element type "base" must be terminated by the matching end-tag "</base>".
+11:06:47.734 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:06:48.240 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 489
+11:06:48.337 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 34
+11:06:48.391 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:06:48.701 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 288
+11:06:48.710 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+11:18:08.465 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.MirrorTest
+11:18:08.593 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/CrownProjects/eclipse-learning-workspace/karatedemo/target/test-classes/examples%5cmirror.feature
+11:18:08.620 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/CrownProjects/eclipse-learning-workspace/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+11:18:09.119 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:18:09.673 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 407
+11:18:09.725 [main] WARN  com.intuit.karate.StepDefs - xml parsing failed, response data type set to string: org.xml.sax.SAXParseException; lineNumber: 18; columnNumber: 5; The element type "base" must be terminated by the matching end-tag "</base>".
+11:18:09.786 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:18:10.383 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 581
+11:18:10.484 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 47
+11:18:10.529 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:18:10.765 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 214
+11:18:10.774 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+11:19:18.788 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.MirrorTest
+11:19:18.917 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/CrownProjects/eclipse-learning-workspace/karatedemo/target/test-classes/examples%5cmirror.feature
+11:19:18.943 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/CrownProjects/eclipse-learning-workspace/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+11:19:19.431 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:19:19.995 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 409
+11:19:20.050 [main] WARN  com.intuit.karate.StepDefs - xml parsing failed, response data type set to string: org.xml.sax.SAXParseException; lineNumber: 18; columnNumber: 5; The element type "base" must be terminated by the matching end-tag "</base>".
+11:19:20.052 [main] ERROR com.intuit.karate.StepDefs - FAILED, status code was 200, expected 400
+11:19:20.151 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:19:20.533 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 367
+11:19:20.615 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 27
+11:19:20.660 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:19:21.009 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 326
+11:19:21.020 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
